@@ -1,6 +1,6 @@
 # Hi there, I'm Cuong Tran 👋
 
-### 👨‍💻 Full Stack Developer | Final-year IT Student at HAUI
+### 👨💻 Full Stack Developer | Final-year IT Student at HAUI
 
 I am a passionate Information Technology student with a strong logical mindset, aiming to excel as a professional Full Stack/Backend Engineer. I enjoy building dynamic user interfaces and architecting robust, scalable backend services. I am also highly interested in integrating Artificial Intelligence (LLMs) into modern web applications to enhance user experiences.
 
@@ -23,6 +23,7 @@ I am a passionate Information Technology student with a strong logical mindset, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,12 +41,18 @@ I am a passionate Information Technology student with a strong logical mindset, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
+
+#### ✉️ [AI-Powered Email Assistant Platform](https://github.com/tcuong24/email-assistant)
+*An intelligent, event-driven microservices platform that automates email classification, sentiment analysis, and smart response generation.*
+- **Tech:** React 19, Tailwind CSS 4, Java 21, Spring Boot, Spring Cloud Gateway, Python, Apache Kafka, Google Gemini API, PostgreSQL, Docker.
+- **Highlights:** Built a scalable, event-driven microservices architecture using Apache Kafka for asynchronous communication between services. Integrated Google Gemini API via a Python AI service to perform multi-task email analysis (classification, translation, and draft suggestions). Implemented WebSockets (STOMP) for real-time client notifications and custom analytics tracking with Recharts.
 
 #### 📄 [Online CV Builder Platform](https://github.com/tcuong24/CV-Online)
 *An interactive drag-and-drop CV builder integrating AI.*
