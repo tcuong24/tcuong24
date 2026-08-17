@@ -1,91 +1,61 @@
-# Hi there, I'm Cuong Tran 👋
+# Cuong Tran
 
-### 👨💻 Full Stack Developer | Final-year IT Student at HAUI
+**Full-stack developer · Backend-focused · Final-year IT student at Hanoi University of Industry**
 
-I am a passionate Information Technology student with a strong logical mindset, aiming to excel as a professional Full Stack/Backend Engineer. I enjoy building dynamic user interfaces and architecting robust, scalable backend services. I am also highly interested in integrating Artificial Intelligence (LLMs) into modern web applications to enhance user experiences.
+I build reliable web applications with Java, TypeScript, and Python. My current focus is event-driven backend systems, modern React interfaces, and practical AI integrations.
 
----
+[Email](mailto:cuongtran0413@gmail.com) · [LinkedIn](https://linkedin.com/in/cuongtran0413) · [GitHub](https://github.com/tcuong24)
 
-### 🚀 About Me
-- 🎓 **Education:** Final-year IT student at Hanoi University of Industry (HAUI).
-- 💻 **Focus:** Full Stack Web Development (ReactJS ecosystem & NodeJS / Java Spring Boot).
-- 🤖 **Current Interest:** Integrating AI Assistant models (Google Gemini/Gemma) and exploring Docker/Microservices.
-- 🌱 **Currently learning:** Advanced English for IT (TOEIC prep) and optimizing system performance.
-- 🤝 **Collaboration:** Open to collaborating on Open Source projects or Fullstack web applications.
-- 📫 **How to reach me:** [cuongtran0413@gmail.com](mailto:cuongtran0413@gmail.com)
+## About
 
----
+- Based in Hanoi, Vietnam
+- Working primarily with Java Spring Boot, Node.js, React, and Next.js
+- Interested in distributed systems, message-driven architecture, and applied AI
+- Open to backend, full-stack, and open-source opportunities
 
-### 🛠️ Tech Stack & Tools
+## Technical focus
 
-**Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Area | Technologies |
+| --- | --- |
+| Backend | Java 21, Spring Boot, Node.js, NestJS, Express, Python |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS, Ant Design |
+| Data | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch |
+| Architecture | REST APIs, microservices, event-driven systems, WebSockets |
+| Infrastructure | Docker, GitHub Actions, AWS EC2, Netlify, Vercel |
+| Messaging & AI | Apache Kafka, RabbitMQ, Gemini, Gemma, vector search |
 
-**Frontend Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+## Selected projects
 
-**Backend Frameworks:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### [AI-Powered Email Assistant](https://github.com/tcuong24/email-assistant)
 
-**Databases & DevOps:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+An event-driven platform for email classification, sentiment analysis, translation, and AI-assisted response generation.
 
----
+`React 19 · Java 21 · Spring Boot · Python · Kafka · PostgreSQL · Docker`
 
-### 🌟 Featured Projects
+### [UI Maker](https://github.com/tcuong24/ui-maker)
 
-#### ✉️ [AI-Powered Email Assistant Platform](https://github.com/tcuong24/email-assistant)
-*An intelligent, event-driven microservices platform that automates email classification, sentiment analysis, and smart response generation.*
-- **Tech:** React 19, Tailwind CSS 4, Java 21, Spring Boot, Spring Cloud Gateway, Python, Apache Kafka, Google Gemini API, PostgreSQL, Docker.
-- **Highlights:** Built a scalable, event-driven microservices architecture using Apache Kafka for asynchronous communication between services. Integrated Google Gemini API via a Python AI service to perform multi-task email analysis (classification, translation, and draft suggestions). Implemented WebSockets (STOMP) for real-time client notifications and custom analytics tracking with Recharts.
+A website design analyzer that crawls rendered pages, extracts design tokens, aggregates evidence, and generates agent-ready design documentation.
 
-#### 📄 [Online CV Builder Platform](https://github.com/tcuong24/CV-Online)
-*An interactive drag-and-drop CV builder integrating AI.*
-- **Tech:** Next.js 16, NestJS 11, PostgreSQL, Prisma, Zustand, Puppeteer.
-- **Highlights:** Integrated Google Gemini to automatically analyze and suggest professional CV content. Engineered a Server-Side PDF Export service using Puppeteer.
+`React · Spring Boot · Playwright · Python · RabbitMQ · MongoDB · Docker`
 
-#### 📚 [Online Bookstore System](https://github.com/tcuong24/BookStore_ver2)
-*A comprehensive e-commerce bookstore with an intelligent AI Assistant.*
-- **Tech:** Java 21, Spring Boot, MySQL, Elasticsearch, Thymeleaf.
-- **Highlights:** Implemented robust user authentication and seamless online checkout workflows via PayOS. Integrated an AI Assistant using Gemma/Gemini and Elasticsearch text embeddings for natural language book recommendations.
+### [Online CV Builder](https://github.com/tcuong24/CV-Online)
 
-#### ☕ [Online Beverage Ordering Website](https://brewlyvite.netlify.app)
-*A dynamic drink ordering application featuring a highly responsive UI.*
-- **Tech:** React 19, Vite, Express, MongoDB, Redis, Tailwind CSS 4.
-- **Highlights:** Fluid animations using Framer Motion, dynamic color extraction via Color Thief, and integrated Redis for performant data caching.
+A drag-and-drop CV builder with AI-assisted content generation and server-side PDF export.
 
----
+`Next.js · NestJS · PostgreSQL · Prisma · Zustand · Puppeteer`
 
-### 📊 GitHub Stats
+### [Online Bookstore](https://github.com/tcuong24/BookStore_ver2)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tcuong24&show_icons=true&theme=radium&hide_border=true" alt="Cuong's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tcuong24&theme=radium&hide_border=true" alt="Cuong's GitHub Streak" width="48%" />
-</p>
+An e-commerce bookstore with authentication, online payments, Elasticsearch search, and an AI recommendation assistant.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcuong24&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="50%" />
-</p>
+`Java 21 · Spring Boot · MySQL · Elasticsearch · Gemini · PayOS`
 
----
+## Currently
 
-<p align="center">
-  <a href="https://linkedin.com/in/cuongtran0413" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+- Improving system design and backend performance
+- Building production-oriented Docker and CI/CD workflows
+- Strengthening professional English communication
+
+## Contact
+
+For collaboration or opportunities, email me at [cuongtran0413@gmail.com](mailto:cuongtran0413@gmail.com).
