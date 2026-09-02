@@ -1,61 +1,91 @@
-# Cuong Tran
+# Tran Van Cuong
 
-**Full-stack developer · Backend-focused · Final-year IT student at Hanoi University of Industry**
+**Full-stack / Backend Developer · Final-year IT Student at Hanoi University of Industry (HAUI)**
 
-I build reliable web applications with Java, TypeScript, and Python. My current focus is event-driven backend systems, modern React interfaces, and practical AI integrations.
+I build reliable web applications and backend systems with Java (Spring Boot), Node.js (NestJS), TypeScript, and React / Next.js. My focus is on scalable RESTful APIs, event-driven architectures, modern user interfaces, and practical AI integrations.
 
-[Email](mailto:cuongtran0413@gmail.com) · [LinkedIn](https://linkedin.com/in/cuongtran0413) · [GitHub](https://github.com/tcuong24)
+[Website](https://tcuong24.me) · [Email](mailto:cuongtran0413@gmail.com) · [GitHub](https://github.com/tcuong24) · [LinkedIn](https://linkedin.com/in/cuongtran0413)
 
-## About
+---
 
-- Based in Hanoi, Vietnam
-- Working primarily with Java Spring Boot, Node.js, React, and Next.js
-- Interested in distributed systems, message-driven architecture, and applied AI
-- Open to backend, full-stack, and open-source opportunities
+## 👨‍💻 About Me
 
-## Technical focus
+- 📍 Based in **Hanoi, Vietnam**
+- 🎓 Final-year IT student at **Hanoi University of Industry (HAUI)** (2022 – 2026)
+- 🛠️ Working primarily with **Java Spring Boot**, **NestJS / Node.js**, **PostgreSQL**, **React**, and **Next.js**
+- 🎯 Focused on clean architecture, secure authentication (JWT / RBAC), real-time communication, and AI integration
+- 💼 Open for **Fullstack / Backend Developer** roles (Fresher / Junior)
 
-| Area | Technologies |
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
 | --- | --- |
-| Backend | Java 21, Spring Boot, Node.js, NestJS, Express, Python |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS, Ant Design |
-| Data | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch |
-| Architecture | REST APIs, microservices, event-driven systems, WebSockets |
-| Infrastructure | Docker, GitHub Actions, AWS EC2, Netlify, Vercel |
-| Messaging & AI | Apache Kafka, RabbitMQ, Gemini, Gemma, vector search |
+| **Languages** | Java, TypeScript, JavaScript, Python |
+| **Backend** | Spring Boot, NestJS, Node.js, Express.js, JPA / Hibernate |
+| **Frontend** | React 19, Next.js, TypeScript, Tailwind CSS, Ant Design |
+| **Databases & Cache** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Messaging & Async** | Apache Kafka, RabbitMQ |
+| **DevOps & Cloud** | Docker, Nginx, Linux, AWS EC2, GitHub Actions (CI/CD), Postman |
+| **AI Integration** | Google Gemini API |
 
-## Selected projects
+---
 
-### [AI-Powered Email Assistant](https://github.com/tcuong24/email-assistant)
+## 💼 Work Experience
 
-An event-driven platform for email classification, sentiment analysis, translation, and AI-assisted response generation.
+### **Protean Studios** — *Software Engineer Intern*
+*(Nov 2025 – Apr 2026)*
+- Developed and integrated RESTful APIs for core application features using TypeScript-based backend services.
+- Collaborated in Agile/Scrum sprints, participated in code reviews, and implemented features according to technical specifications.
 
-`React 19 · Java 21 · Spring Boot · Python · Kafka · PostgreSQL · Docker`
+### **Unikgate** — *Front-End Web Developer Intern*
+*(Feb 2024 – Sep 2024)*
+- Developed responsive UI components with React, HTML5, CSS3, and modern JavaScript for customer management systems.
+- Integrated RESTful APIs from backend teams and optimized client-side state management.
 
-### [UI Maker](https://github.com/tcuong24/ui-maker)
+---
 
-A website design analyzer that crawls rendered pages, extracts design tokens, aggregates evidence, and generates agent-ready design documentation.
+## 🚀 Featured Projects
 
-`React · Spring Boot · Playwright · Python · RabbitMQ · MongoDB · Docker`
+### 📄 [Online CV Builder Platform (CVision)](https://cvision.io.vn)
+> An intelligent CV creation platform integrating Google Gemini AI to analyze user content and generate high-fidelity PDFs.
 
-### [Online CV Builder](https://github.com/tcuong24/CV-Online)
+- **Backend & AI**: Built RESTful APIs with NestJS, PostgreSQL, Prisma ORM, and JWT authentication. Integrated Google Gemini API for automated CV content suggestions.
+- **Features**: Drag-and-drop section reordering, real-time split-screen preview, and server-side PDF export via Puppeteer.
+- **DevOps**: Deployed on AWS EC2 using Docker, Nginx, and GitHub Actions CI/CD.
+- **Tech Stack**: `Next.js · NestJS · PostgreSQL · Prisma · Google Gemini API · Puppeteer · Docker`
 
-A drag-and-drop CV builder with AI-assisted content generation and server-side PDF export.
+---
 
-`Next.js · NestJS · PostgreSQL · Prisma · Zustand · Puppeteer`
+### 📋 [Task Management (TaskFlow)](https://task-management-web-olive.vercel.app)
+> Multi-view task workspace with real-time updates and fine-grained Role-Based Access Control (RBAC).
 
-### [Online Bookstore](https://github.com/tcuong24/BookStore_ver2)
+- **Backend & Auth**: Designed RESTful APIs using Spring Boot and PostgreSQL. Implemented JWT authentication with Refresh Token rotation and multi-level RBAC (Organization -> Project -> Task).
+- **Real-time Collaboration**: Synchronized task status, member presence, activity logs, and instant notifications via Socket.io.
+- **Tech Stack**: `Spring Boot · Next.js · React 19 · TypeScript · PostgreSQL · Socket.io`
 
-An e-commerce bookstore with authentication, online payments, Elasticsearch search, and an AI recommendation assistant.
+---
 
-`Java 21 · Spring Boot · MySQL · Elasticsearch · Gemini · PayOS`
+### 🤖 [AI-Powered Email Assistant](https://github.com/tcuong24/email-assistant)
+> An event-driven microservices platform for real-time email classification, AI sentiment analysis, and smart reply generation.
 
-## Currently
+- **Architecture**: Microservices architecture using Spring Boot, Python AI worker, PostgreSQL, and Apache Kafka for asynchronous event processing.
+- **Tech Stack**: `Spring Boot · Python · React · PostgreSQL · Apache Kafka · Gemini AI · Docker`
 
-- Improving system design and backend performance
-- Building production-oriented Docker and CI/CD workflows
-- Strengthening professional English communication
+---
 
-## Contact
+## 🎓 Education & Certifications
 
-For collaboration or opportunities, email me at [cuongtran0413@gmail.com](mailto:cuongtran0413@gmail.com).
+- **Hanoi University of Industry (HAUI)** — *Bachelor of Information Technology* (2022 – 2026)
+  - *Key Coursework*: Data Structures & Algorithms, Object-Oriented Programming, Database Systems, Software Engineering
+- **TOEIC Listening & Reading**: **800+**
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [cuongtran0413@gmail.com](mailto:cuongtran0413@gmail.com)
+- 🌐 Website: [tcuong24.me](https://tcuong24.me)
+- 🐙 GitHub: [github.com/tcuong24](https://github.com/tcuong24)
+- 💼 LinkedIn: [linkedin.com/in/cuongtran0413](https://linkedin.com/in/cuongtran0413)
